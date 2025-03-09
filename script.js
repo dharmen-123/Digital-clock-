@@ -15,6 +15,7 @@ function str(){
 
 },1000)
 }
+
 function stp(){
     clearInterval(st)
 }
