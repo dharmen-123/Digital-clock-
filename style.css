@@ -31,8 +31,8 @@
   justify-content: center;
   /* align-items: center; */
   /* text-align: center; */
-    background: rgba(3, 115, 251, 0.64);
-    backdrop-filter: blur(100px);
+    background: rgba(3, 210, 251, 0.64);
+    backdrop-filter: blur(200px);
     z-index: -3;
 }
 .container::before{
@@ -40,7 +40,7 @@
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    background-color: rgba(240, 17, 91, 0.824);
+    background-color: rgba(4, 222, 55, 0.824);
     position: absolute;
     /* backdrop-filter: blur(40px); */
     left: -70px;
@@ -52,7 +52,7 @@
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    background-color: rgba(133, 237, 7, 0.788);
+    background-color: rgba(252, 6, 72, 0.788);
     position: absolute;
     right: -70px;
     bottom: -50px;
@@ -114,8 +114,7 @@
 #but , #sbut{
     width: 90px;
     height: 40px;
-    background-color: rgb(132, 133, 134);
-    color: white;
+    color: rgb(245, 4, 76);
     font-size: 30px;
     font-weight: bold;
     background: transparent;
